@@ -14,5 +14,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [[https://www.linkedin.com/in/khadeeja-mustafa-70798a257](https://www.linkedin.com/in/khadeeja-mustafa-70798a257/)]<br> 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)][[https://codepen.io/kdCoding_145](https://codepen.io/kdCoding_145)]
 
-##
-[![](https://visitcount.itsvg.in/api?id=KhadeejaMustafa&icon=9&color=3)](https://visitcount.itsvg.in)

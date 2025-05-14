@@ -1,10 +1,12 @@
 
 # 🍀 About Me:
-While majoring in Computer Science and having taken a deep dive in Networks and Web Development, I've discovered I like working with security tools and frameworks.
+- Currently majoring in Computer Science.
+- Took a deep dive in Networks and Web Development, and somehow ended up working with security tools and frameworks.
 
-<br>I've enjoyed working with C, C++, Python, Java, JS, HTML and SQL and have developed great understanding of Cloud Computing, DBMS, Information and Network Security, Data Structures and Algorithms.
+- Enjoyed programming in C, C++, Python, Java, JS, HTML, CSS and SQL.
+- Developed a great understanding of Cloud Computing, DBMS, Information and Network Security, Data Structures and Algorithms.
 
-<br>Currently, my focus is on leveling up my cybersecurity skills which are driven by the curiosity of exploring the aspects of this field.
+- Right now, I want to level up my cybersecurity skills that are driven by the curiosity of exploring the aspects of this field.
 
 
 # 💻 Tech Stack:

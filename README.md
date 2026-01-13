@@ -21,9 +21,6 @@ I thrive in both creative and technical spaces, blending aesthetics with precisi
 ![](https://nirzak-streak-stats.vercel.app/?user=KdeejaMstafa&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KdeejaMstafa&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✧ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KdeejaMstafa&theme=vue&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ✧ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khadeeja Mustafa) 

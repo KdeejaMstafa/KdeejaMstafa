@@ -24,5 +24,6 @@ I thrive in both creative and technical spaces, blending aesthetics with precisi
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ✧ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khadeeja Mustafa) 
-<br>[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)][[https://codepen.io/kdCoding_145](https://codepen.io/kdCoding_145)]
+<br>[![Codepen](https://img.shields.io/badge/Codepen-%2335495e?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/kdCoding_145)
+<br>[![TryHackMe](https://img.shields.io/badge/TryHackMe-6DA55F?style=flat-square)](https://tryhackme.com/p/KdeejaM)
 

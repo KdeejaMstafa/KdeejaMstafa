@@ -1,7 +1,7 @@
 
 ## ✧ About Me
 
-I'm a Computer Science student exploring secure, scalable system design through hands-on development.
+I'm a Computer Science graduate exploring secure, scalable system design through hands-on development.
 My journey started in networks and web development, but curiosity led me deeper into the world of cybersecurity, where I now explore tools, frameworks, and digital defense strategies.
 
 I thrive in technically curious environments, blending creativity with analytical precision while exploring cybersecurity and emerging areas within computer science.
